@@ -1,3 +1,3 @@
-# pic
+# ThousandFigureImag
 
-将大量图片拼接成特定形状/大量图片构成一张图片
+千图成像
